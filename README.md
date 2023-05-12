@@ -6,7 +6,7 @@
 ### • 🔭 I'm currently working on Javascript, Node.js
 
 
-### • 📫How to reach me: <a href="https://www.linkedin.com/in/musa-kolcuk-413a15201/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%233781da" alt="LinkedIn"/></a>
+### • 📫How to reach me: <a href="https://www.linkedin.com/in/musakolcuk/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%233781da" alt="LinkedIn"/></a>
 
 ## Languages and Tools
 
