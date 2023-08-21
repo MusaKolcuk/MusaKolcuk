@@ -29,6 +29,16 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
    <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/expressjs_logo_icon_169185.png" alt="expressJs" width="40" height="40"/> </a>
+    <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
+  <img src="https://media.trustradius.com/product-logos/9B/8G/IMJEF6VWC74S.PNG" alt="spring" width="40" height="40"/> 
+</a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" alt="typescript" width="40" height="40"/> 
+</a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://seeklogo.com/images/M/mysql-logo-B4943FE6DD-seeklogo.com.png" alt="mysql" width="40" height="40"/> 
+</a>
+
 
 
 
