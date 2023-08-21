@@ -38,6 +38,9 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
   <img src="https://seeklogo.com/images/M/mysql-logo-B4943FE6DD-seeklogo.com.png" alt="mysql" width="40" height="40"/> 
 </a>
+<a href="https://www.nestjs.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg" alt="nestjs" width="40" height="40"/> 
+</a>
 
 
 
