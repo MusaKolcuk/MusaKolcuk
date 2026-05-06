@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋, I'm Musa</h2>
+[<h2 align="left">Hi 👋, I'm Musa</h2>
 
   
   
@@ -77,3 +77,4 @@ Here are some ideas to get you started:
 
 -->
 
+](https://github.com/MusaKolcuk/MusaKolcuk/edit/main/README.md)
