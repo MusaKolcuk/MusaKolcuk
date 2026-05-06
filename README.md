@@ -9,12 +9,7 @@
 ## 🛠 Languages and Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,nestjs,react,spring,mongodb,mysql,git,html,css,bootstrap&theme=dark" />
-</p>
-
-<br/>
-
-### ⚡ My Activity
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MusaKolcuk&layout=compact&theme=vision-friendly-dark" alt="Top Langs" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,nestjs,react,spring,mongodb,mysql,git,html,css,bootstrap&perline=12" />
+  </a>
 </p>
