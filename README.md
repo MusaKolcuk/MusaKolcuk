@@ -1,6 +1,6 @@
 <h2 align="left">Hi 👋, I'm Musa</h2>
 
-### • 🔭 I'm currently working on Javascript, Node.js
+### • 🔭 Full-Stack Developer | Building end-to-end web applications and scalable systems
 
 ### • 📫 How to reach me: <a href="https://www.linkedin.com/in/musakolcuk/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%233781da?style=flat-square&logo=linkedin" alt="LinkedIn"/></a>
 
